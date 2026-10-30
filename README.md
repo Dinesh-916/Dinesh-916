@@ -7,7 +7,7 @@
 * 🌱 **I’m currently learning:** AI/ML
 * 👨‍💻 **All of my projects are available at:** [My Portfolio](https://github.com/Dinesh-916) 
 * 👯 **I’m looking to collaborate on:** OpenSource and Team Projects
-* 📫 **How to reach me:** [LinkedIn - @ChandanKumar](https://www.linkedin.com/in/dinesh-reddy-01a4332b4/) 
+* 📫 **How to reach me:** [LinkedIn - @Dinesh](https://www.linkedin.com/in/dinesh-reddy-01a4332b4/) 
 
 ---
 
