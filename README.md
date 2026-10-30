@@ -1,4 +1,3 @@
-
 ## Hi there 👋 I'm Dinesh 
 - 😄 Call me: Dinnu
 
@@ -13,37 +12,43 @@
 
 ### 🚀 Languages and Tools
 
-#### 🤖 AI, Deep Learning & Data Science
+#### 🤖 AI, Deep Learning, NLP & Data Science
 <p align="left">
-  <img src="https://shields.io" alt="python" />
-  <img src="https://shields.io" alt="pytorch" />
-  <img src="https://shields.io" alt="tensorflow" />
-  <img src="https://shields.io" alt="scikit_learn" />
-  <img src="https://shields.io" alt="pandas" />
-  <img src="https://shields.io" alt="seaborn" />
-  <img src="https://shields.io" alt="opencv" />
+  <img src="https://githubusercontent.com" alt="python" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="pytorch" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="tensorflow" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="keras" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://huggingface.co" alt="huggingface" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="numpy" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="pandas" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="scikit_learn" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="scipy" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="opencv" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="jupyter" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="streamlit" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="pyspark" width="45" height="45" style="margin-right: 10px;" />
 </p>
 
 #### 💻 Backend & Web Development
 <p align="left">
-  <img src="https://shields.io" alt="c" />
-  <img src="https://shields.io" alt="flask" />
-  <img src="https://shields.io" alt="html5" />
+  <img src="https://githubusercontent.com" alt="c" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="flask" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="html5" width="45" height="45" style="margin-right: 10px;" />
 </p>
 
 #### 🗄️ Databases
 <p align="left">
-  <img src="https://shields.io" alt="mongodb" />
-  <img src="https://shields.io" alt="mysql" />
-  <img src="https://shields.io" alt="mssql" />
-  <img src="https://shields.io" alt="oracle" />
+  <img src="https://githubusercontent.com" alt="mongodb" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="mysql" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="mssql" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="oracle" width="45" height="45" style="margin-right: 10px;" />
 </p>
 
 #### ⚙️ DevOps, Platforms & Tools
 <p align="left">
-  <img src="https://shields.io" alt="docker" />
-  <img src="https://shields.io" alt="git" />
-  <img src="https://shields.io" alt="linux" />
+  <img src="https://githubusercontent.com" alt="docker" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="git" width="45" height="45" style="margin-right: 10px;" />
+  <img src="https://githubusercontent.com" alt="linux" width="45" height="45" style="margin-right: 10px;" />
 </p>
 
 ---
@@ -55,14 +60,23 @@
   <img src="https://komarev.com" alt="Views" />
 </p>
 
+<!-- GitHub Trophy Case -->
 <p align="left">
-  <!-- GitHub Stats Badge -->
-  <img src="https://vercel.app" alt="Dinnu's GitHub stats" />
+  <a href="https://github.com"><img src="https://vercel.app" alt="github trophies" /></a>
 </p>
 
 <p align="left">
-  <!-- GitHub Streak Badge -->
-  <img src="https://herokuapp.com" alt="Dinnu's streak" />
+  <!-- GitHub Core Stats Card -->
+  <img src="https://vercel.app" alt="Dinnu's GitHub stats" width="48%" />
+  <!-- GitHub Top Languages Card -->
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
+
+<p align="left">
+  <!-- GitHub Contribution Streak -->
+  <img src="https://herokuapp.com" alt="Dinnu's streak" width="48%" />
+  <!-- Dynamic Contribution Graph -->
+  <img src="https://vercel.app" alt="Activity Graph" width="48%" />
 </p>
 
 ---
