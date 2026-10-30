@@ -57,12 +57,12 @@
 
 <p align="left">
   <!-- GitHub Stats Badge -->
-  <img src="https://vercel.app" alt="Chandan's GitHub stats" />
+  <img src="https://vercel.app" alt="Dinnu's GitHub stats" />
 </p>
 
 <p align="left">
   <!-- GitHub Streak Badge -->
-  <img src="https://herokuapp.com" alt="Chandan's streak" />
+  <img src="https://herokuapp.com" alt="Dinnu's streak" />
 </p>
 
 ---
