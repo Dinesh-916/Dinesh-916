@@ -1,21 +1,27 @@
-## Hi there 👋 I'm Dinesh 
-- 😄 Call me: Dinnu
+# Hi there 👋 I'm Dinesh 
+### 👨‍💻 AI / ML & Deep Learning Engineer
+
+- 😄 **Call me:** Dinnu
+- 🚀 **Passionate about:** Artificial Intelligence, Neural Networks, and Data Science
+
+---
 
 ### 🙋‍♂️ About Me
-* 🔭 **I’m currently working on & learning:** AI/ML
-* 👨‍💻 **Portfolio:** [My Portfolio](https://github.com) 
-* 👯 **Collaborate on:** OpenSource and Team Projects
-* 📫 **Reach me:** [LinkedIn - @Dinesh](https://linkedin.com) 
+* 🔭 **I’m currently working on:** AI/ML Applications
+* 🌱 **I’m currently learning:** Advanced Deep Learning & NLP
+* 👨‍💻 **All of my projects are available at:** [My Portfolio](https://github.com) 
+* 👯 **I’m looking to collaborate on:** OpenSource and Team Projects
+* 📫 **How to reach me:** [LinkedIn - @Dinesh](https://linkedin.com) 
 
 ---
 
 ### 🚀 Languages and Tools
-*(Includes Python, PyTorch, TensorFlow, Keras, NumPy, Pandas, SciKit-Learn, SciPy, OpenCV, Jupyter, Streamlit, Apache Spark, C, Flask, HTML5, MongoDB, MySQL, MS SQL, Oracle, Docker, Git, and Linux via jsDelivr CDN badges).*
 
----
+#### 🤖 AI, Deep Learning, NLP & Data Science
+* 🐍 **Python**, 🔥 **PyTorch**, ⚙️ **TensorFlow / Keras**, 🤗 **Hugging Face**, and more data science and vision libraries.
 
-### 📊 Stats & Badges
-* **GitHub Profile Views & Analytics:** Configured via standard Markdown badge endpoints for profile views, repository analytics, and top languages.
+#### 💻 Backend, Databases & DevOps
+* Includes **Flask**, **HTML5**, **MongoDB**, **MySQL**, **Docker**, **Git**, and **Linux**.
 
 ---
 
